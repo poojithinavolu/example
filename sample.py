@@ -8,4 +8,4 @@ for i in range(10):
         print('even')
     else:
         print('odd')
-  print('i : ',i)
+    print('i : ',i)
